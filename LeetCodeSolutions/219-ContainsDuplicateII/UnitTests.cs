@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace LeetCodeSolutions.ContainsDuplicateII;
+namespace LeetCodeSolutions._219_ContainsDuplicateII;
 
 public class UnitTests
 {

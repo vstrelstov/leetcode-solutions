@@ -1,4 +1,4 @@
-namespace LeetCodeSolutions.ContainsDuplicate;
+namespace LeetCodeSolutions._217_ContainsDuplicate;
 
 public class Solution
 {

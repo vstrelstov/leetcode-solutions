@@ -1,4 +1,4 @@
-namespace LeetCodeSolutions.ContainsDuplicateII;
+namespace LeetCodeSolutions._219_ContainsDuplicateII;
 
 /**
  * LeetCode-219: Contains duplicate II
